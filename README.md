@@ -1,4 +1,4 @@
-<h1>Hi, I'm Richardo, an <a href="https://www.linkedin.com/in/richardo-hewitt/">LPN to IT</a>☺</h1>
+<h1>Hi, I'm Richardo, an <a href="https://www.linkedin.com/in/richardo-hewitt/">LPN to IT interest</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
